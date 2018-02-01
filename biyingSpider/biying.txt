@@ -1,3 +1,0 @@
-必应爬虫实现了每日爬取必应图片，并按日期存储。
-参考地址：https://www.cnblogs.com/luxiaojun/p/6567132.html //定时任务框架APScheduler学习详解
-后台运行命令：nohup python -u biyingSpider.py >python.log &
