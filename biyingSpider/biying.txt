@@ -1,0 +1,12 @@
+必应爬虫实现了每日爬取必应图片，并按日期存储。
+参考地址：https://www.cnblogs.com/luxiaojun/p/6567132.html //定时任务框架APScheduler学习详解
+后台运行命令：nohup python -u biyingSpider.py >python.log &
+
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/eumeniders/2018.01.31.jpg'
+设置deepin壁纸参考网页
+https://bbs.deepin.org/forum.php?mod=viewthread&tid=144934
+
+Python中调用命令行的几种方法参考网页
+https://www.jianshu.com/p/5320ff8046b2
+Python脚本开机自启动(Linux)参考网页
+http://blog.topspeedsnail.com/archives/5426
