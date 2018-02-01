@@ -20,7 +20,7 @@ url = 'http://202.204.48.82/'
 
 def main():
     getv6ip()
-    data = {'g20178695': STUID, '10060037': STUPASS, '0MKKey': '123456789', 'v6ip': getv6ip()}
+    data = {'g××××××××': STUID, '××××××××': STUPASS, '0MKKey': '123456789', 'v6ip': getv6ip()}
     request = urllib2.Request(url, urllib.urlencode(data))
     response = urllib2.urlopen(request)
     print response.getcode()
